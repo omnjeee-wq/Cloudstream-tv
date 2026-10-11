@@ -1,0 +1,9 @@
+*{box-sizing:border-box}
+body{margin:0;padding:48px;background:#10131d;color:#fff;font-family:Arial,sans-serif;font-size:24px}
+header{display:flex;justify-content:space-between;align-items:center}
+h1{font-size:42px}h1 span{color:#7c83ff}
+input{padding:16px;width:440px;font-size:22px;border-radius:10px}
+nav{display:flex;gap:20px;margin:36px 0}
+button{background:#242a3b;color:white;border:2px solid transparent;border-radius:10px;padding:18px 36px;font-size:24px}
+button:focus{border-color:#9298ff;background:#343b55}
+#status{margin-top:32px;color:#aeb6ce}

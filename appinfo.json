@@ -1,0 +1,10 @@
+{
+  "id": "com.om.cloudstreamtv",
+  "version": "1.0.0",
+  "vendor": "Om",
+  "type": "web",
+  "main": "index.html",
+  "title": "CloudStream TV",
+  "icon": "icon.png",
+  "resolution": "1920x1080"
+}
